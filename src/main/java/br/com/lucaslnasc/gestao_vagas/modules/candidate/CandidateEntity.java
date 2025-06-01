@@ -1,4 +1,4 @@
-package br.com.lucaslnasc.gestao_vagas.modules.cadidate;
+package br.com.lucaslnasc.gestao_vagas.modules.candidate;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

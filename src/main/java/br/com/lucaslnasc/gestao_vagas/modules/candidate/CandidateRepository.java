@@ -1,4 +1,4 @@
-package br.com.lucaslnasc.gestao_vagas.modules.cadidate;
+package br.com.lucaslnasc.gestao_vagas.modules.candidate;
 
 import java.util.Optional;
 import java.util.UUID;
